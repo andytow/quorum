@@ -1,0 +1,2 @@
+# quorum
+Simulador de quórum
